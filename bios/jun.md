@@ -4,4 +4,4 @@
 
 **Occupation:** Student
 
-**Location**: San Diego
+**Location**: San Diego, California, USA
