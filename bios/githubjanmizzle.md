@@ -2,6 +2,6 @@
 
 **Name:** GitHub janmizzle
 
-**Occupation:** student
+**Occupation:** Project Manager
 
 **Location:** Toronto
