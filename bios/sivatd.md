@@ -2,6 +2,6 @@ Siva Prakash Teradata
 
 Name : Siva Prakash
 
-Occupation : SW
+Occupation : Software
 
 Location : India
