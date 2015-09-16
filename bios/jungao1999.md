@@ -6,4 +6,4 @@
 
 **Location:** San Diego, CA, USA
 
-**Favorite vacation location:** Portland
+**Favorite Vacation Spot:** Portland, Maine
