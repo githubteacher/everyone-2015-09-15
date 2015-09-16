@@ -4,4 +4,6 @@
 
 **OCCUPATION:**Dev
 
-**LOCATION:**Alpharetta, GA, United States of America, Earth, Solar System, Milky Way
+**LOCATION:**Alpharetta, Fulton County, GA, United States of America, Earth, Solar System, Milky Way
+
+**FAVORITE VACATION SPOT:** Home
