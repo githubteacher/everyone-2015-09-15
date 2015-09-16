@@ -4,4 +4,4 @@
 
 **Occupation:** Developer
 
-**Location:** Earth
+**Location:** Earth, California
