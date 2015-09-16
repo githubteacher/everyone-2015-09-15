@@ -4,4 +4,4 @@
 
 **Occupation:** Teradata Client Software Engineer
 
-**Location:** El Segundo, CA
+**Location:** El Segundo, CA, USA
