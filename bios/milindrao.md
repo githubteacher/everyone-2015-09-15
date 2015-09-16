@@ -3,4 +3,4 @@
 
 **Occupation:** Software Developer
 
-**Location:** Cuyahoga County
+**Location:** Cuyahoga County, Ohio, USA
