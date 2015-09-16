@@ -4,3 +4,5 @@
 **Occupation:** Software Developer
 
 **Location:** Cuyahoga County, Ohio, USA
+
+** Favorite Vacation Spot: ** Scotland
