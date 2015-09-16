@@ -6,4 +6,4 @@
 
 **Location:** San Francisco, California, USA
 
-**Favorite vacation spot:** Portland, Maine
+**Favorite Vacation Spot:** Portland, Maine
