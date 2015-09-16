@@ -3,4 +3,4 @@
 
 **Occupation:** Student
 
-**Location:** SFO
+**Location:** SFO - California
