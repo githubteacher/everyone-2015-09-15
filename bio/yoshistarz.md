@@ -6,4 +6,4 @@
 
 **Location:** Earth, California
 
-**Favorite Vactaion Spot:** Hawaii
+**Favorite Vactaion Spot:** Oahu, Hawaii
