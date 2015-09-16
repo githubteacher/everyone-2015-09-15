@@ -1,4 +1,4 @@
-## GitHub FOT
+## GitHub Student
 
 **NAME:**Chris Htuchison
 
