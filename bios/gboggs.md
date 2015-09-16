@@ -4,4 +4,4 @@
 
 **Occupation** Alien life form
 
-**Location** Mars
+**Location** Mars, southern hemisphere
