@@ -1,7 +1,7 @@
 ## My bio
 
-**Name:  Amor
+**Name:**  Amor
 
-**Occupation:  engineer
+**Occupation:**  engineer
 
-**Location:  El Segundo
+**Location:**  El Segundo
