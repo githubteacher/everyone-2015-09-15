@@ -5,3 +5,5 @@
 **Occupation:** Engineer
 
 **Location:** California USA
+
+**Favorite vacation spot:** Alaska
