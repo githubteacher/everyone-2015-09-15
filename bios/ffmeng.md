@@ -6,4 +6,4 @@
 
 **Location:** San Diego, CA
 
-**Favorite Vacation Spott:** Taiwan
+**Favorite Vacation Spot:** Taiwan
