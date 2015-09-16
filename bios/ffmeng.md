@@ -5,3 +5,5 @@
 **Occupation:** Engineer
 
 **Location:** San Diego, CA
+
+**Favorite Vacation Spot:** Taiwan
