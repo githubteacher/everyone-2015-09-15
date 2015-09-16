@@ -5,4 +5,4 @@
 
 **Location:** Cuyahoga County, Ohio, USA
 
-** Favorite Vacation Spot: ** Scotland
+** Favorite Vacation Spot: ** Scotland, Europe
