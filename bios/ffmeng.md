@@ -4,4 +4,4 @@
 
 **Occupation:** Engineer
 
-**Location:** San Diego
+**Location:** San Diego, CA
