@@ -4,4 +4,4 @@
 
 **Occupation:** Developer
 
-**Location:** Houston
+**Location:** Houston, TX
