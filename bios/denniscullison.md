@@ -3,4 +3,4 @@
 
 **Occupation:** Architect
 
-**Location:** San Diego
+**Location:** San Diego, CA
