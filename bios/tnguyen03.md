@@ -4,4 +4,4 @@
 
 ###Occupation: SWE
 
-###Location: San Diego
+###Location: San Diego, CA
