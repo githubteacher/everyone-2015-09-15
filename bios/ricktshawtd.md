@@ -2,4 +2,4 @@
 
 **Occupation:** ClearCase guy
 
-**Location:** El Segundo
+**Location:** El Segundo, CA, United States
