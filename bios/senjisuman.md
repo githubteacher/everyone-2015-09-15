@@ -6,4 +6,4 @@
 
 **Location:** California USA
 
-**Favorite vacation spot:** Alaska
+**Favorite vacation spot:** Hawaii
