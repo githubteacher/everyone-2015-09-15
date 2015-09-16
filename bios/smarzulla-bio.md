@@ -1,7 +1,7 @@
-@Smarzulla
+##Smarzulla
 
 **Name:** SMarzulla
 
 **Occupation:** Chief Bottle Washer
 
-**Location:** Colorado Springs
+**Location:** Colorado Springs, Colorado USA
