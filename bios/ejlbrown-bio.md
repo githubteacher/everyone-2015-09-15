@@ -6,4 +6,4 @@
 
 **Location:** San Diego
 
-**Favorite vacation spot:** Somewhere new!
+**Favorite Vacation Spot:** Somewhere new!
