@@ -2,6 +2,6 @@
 
 **NAME:**Chris Htuchison
 
-** OCCUPATION:**Dev
+**OCCUPATION:**Dev
 
 **LOCATION:**GA
