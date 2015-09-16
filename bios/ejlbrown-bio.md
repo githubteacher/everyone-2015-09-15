@@ -2,6 +2,6 @@
 
 **Name:** Erica
 
-**Occupation:** Author Extraordinaire
+**Occupation:** Technical Writer
 
 **Location:** San Diego
