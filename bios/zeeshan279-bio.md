@@ -6,4 +6,4 @@
 
 **Location:** Baltimore, MD, USA
 
-**Favorite vacation spot:** honolulu, Hawaii 
+**Favorite Vacation Spot:** honolulu, Hawaii 
