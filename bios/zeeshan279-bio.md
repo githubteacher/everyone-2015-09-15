@@ -2,6 +2,6 @@
 
 **Name:** Zeeshan 
 
-**Occupation:** IT
+**Occupation:** Information Technology
 
 **Location:** Baltimore, MD, USA
