@@ -2,6 +2,6 @@
 
 **Name:** Alex
 
-**Occupation:** Github Student
+**Occupation:** Github student
 
 **Location:** Colorado
