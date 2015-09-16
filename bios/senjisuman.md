@@ -1,7 +1,7 @@
 ##GitHub Teacher##
 
-Name: Sam
+**Name:** Sam
 
-Occupation: Engineer
+**Occupation:** Engineer
 
-Location: USA
+**Location:** California USA
