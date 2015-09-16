@@ -1,7 +1,7 @@
 ## alexbonjour
 
-Name: Alex
+**Name:** Alex
 
-Occupation: Github Student
+**Occupation:** Github Student
 
-Location: Colorado
+**Location:** Colorado
