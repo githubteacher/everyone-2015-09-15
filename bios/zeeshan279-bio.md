@@ -4,4 +4,4 @@
 
 **Occupation:** IT
 
-**Location:** Baltimore
+**Location:** Baltimore, MD, USA
