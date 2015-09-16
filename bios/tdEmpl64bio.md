@@ -6,3 +6,5 @@
 **Occupation :** Student
 
 **Location :** Cal If Ornay-Ay
+
+**Correct Location :** California
