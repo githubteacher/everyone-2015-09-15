@@ -6,4 +6,4 @@
 
 **Location:** Amazon Jungle
 
-**Favorite vacation spot:** Shelter Islands
+**Favorite Vacation Spot:** Shelter Islands
