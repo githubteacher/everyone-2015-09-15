@@ -5,3 +5,5 @@
 **Occupation:** Snake Wrangler
 
 **Location:** Amazon Jungle
+
+**Favorite Vacation Spot:** Shelter Islands
