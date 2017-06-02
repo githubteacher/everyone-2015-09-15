@@ -5,3 +5,5 @@
 **Occupation:** Manager
 
 **Location:** Austin Texas
+
+**Favorite Vacation Spot:** Emerald Isle, NC
